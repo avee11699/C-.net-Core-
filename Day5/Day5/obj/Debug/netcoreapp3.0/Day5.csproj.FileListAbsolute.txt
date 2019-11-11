@@ -1,0 +1,11 @@
+C:\Users\avneesh.chuttoor\source\repos\Day5\Day5\obj\Debug\netcoreapp3.0\Day5.csprojAssemblyReference.cache
+C:\Users\avneesh.chuttoor\source\repos\Day5\Day5\obj\Debug\netcoreapp3.0\Day5.AssemblyInfoInputs.cache
+C:\Users\avneesh.chuttoor\source\repos\Day5\Day5\obj\Debug\netcoreapp3.0\Day5.AssemblyInfo.cs
+C:\Users\avneesh.chuttoor\source\repos\Day5\Day5\bin\Debug\netcoreapp3.0\Day5.exe
+C:\Users\avneesh.chuttoor\source\repos\Day5\Day5\bin\Debug\netcoreapp3.0\Day5.deps.json
+C:\Users\avneesh.chuttoor\source\repos\Day5\Day5\bin\Debug\netcoreapp3.0\Day5.runtimeconfig.json
+C:\Users\avneesh.chuttoor\source\repos\Day5\Day5\bin\Debug\netcoreapp3.0\Day5.runtimeconfig.dev.json
+C:\Users\avneesh.chuttoor\source\repos\Day5\Day5\bin\Debug\netcoreapp3.0\Day5.dll
+C:\Users\avneesh.chuttoor\source\repos\Day5\Day5\bin\Debug\netcoreapp3.0\Day5.pdb
+C:\Users\avneesh.chuttoor\source\repos\Day5\Day5\obj\Debug\netcoreapp3.0\Day5.dll
+C:\Users\avneesh.chuttoor\source\repos\Day5\Day5\obj\Debug\netcoreapp3.0\Day5.pdb
